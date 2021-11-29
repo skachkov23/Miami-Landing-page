@@ -13,5 +13,4 @@
 7. Implement smooth scroll for whole page.
 
 
-- [Preview link](https://github.com/skachkov23/Miami-Landing-page)
-- [Demo link](https://skachkov23.github.io/Miami-Landing-page/)
+- [Preview link](https://skachkov23.github.io/Miami-Landing-page/)
